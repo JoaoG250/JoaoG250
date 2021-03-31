@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoG250
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Project Management
 - 🌱 I’m aways learning better ways to develop quality software
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-g-o-rodrigues/)
 
